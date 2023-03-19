@@ -46,6 +46,10 @@ img {
 ul {
   list-style: none;
 }
+footer {
+  text-align: center;
+  margin: -50px auto 20px;
+}
 .float-left {
   font-size: 50px;
   font-weight: 600;
@@ -139,4 +143,7 @@ ul {
   display: block;
   margin: 5px auto;
   padding: 16px 24px;
+}
+.link {
+  font-size: 20px;
 }
